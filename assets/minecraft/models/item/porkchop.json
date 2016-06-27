@@ -17,5 +17,13 @@
                 "down": { "texture": "#0", "uv": [ 6.0, 6.0, 11.0, 14.0 ] }
             }
         }
-    ]
+    ],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [ 15, 0, 0 ],
+			"translation": [ 1, -1, -6 ],
+			"scale": [ 1, 1, 1 ]
+		}
+
+    }
 }
